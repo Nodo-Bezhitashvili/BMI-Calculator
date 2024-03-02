@@ -1,2 +1,2 @@
 # BMI-Calculator
-Efficient BMI calculator: HTML, CSS, JS synergy for quick, accurate body mass index computation. User-friendly interface.
+Dynamic BMI calculator, coded with HTML, CSS, and JS. Instantly computes body mass index, providing users swift, precise health insights. Streamlined design ensures a seamless and informative experience.
